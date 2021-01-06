@@ -1,9 +1,10 @@
 <h3 align="center">Hi 👋, I'm Vincent Desloover</h1>
 <h4 align="center">A third year engineering student and Full-Stack developer from Montreal (CA)</h3>
 
-<p align="center"> 🔭 I’m currently working on Frontend web interfaces with Material-UI</p>
+<p align="center"> :rocket: I’m currently working on Frontend web interfaces with Material-UI</p>
 <p align="center"> 🌱 I'm also teaching myself Go, React and Docker</p>
-<p align="center"> 📫 You can reach me at vincent.desloover.1@etsmtl.net</p>
+<p align="center"> :scroll: Check out my <a href="https://vincedeslo.github.io/">portfolio</a> for further info!</p>
+<p align="center"> :email: In any case, you can reach me at vincent.desloover.1@etsmtl.net</p>
 
 <hr/>
 
