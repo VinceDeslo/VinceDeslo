@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm Vincent Desloover</h1>
-<h4 align="center">An undergrad and Full-Stack developer from Montreal (CA)</h3>
+<h4 align="center">A third year engineering student and Full-Stack developer from Montreal (CA)</h3>
 
 <p align="center"> 🔭 I’m currently working on Frontend web interfaces with Material-UI</p>
 <p align="center"> 🌱 I'm also teaching myself Go, React and Docker</p>
