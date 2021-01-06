@@ -1,14 +1,14 @@
 <h3 align="center">Hi 👋, I'm Vincent Desloover</h1>
 <h4 align="center">An undergrad and Full-Stack developer from Montreal (CA)</h3>
 
-- 🔭 I’m currently working on **Frontend web technologies with Material-UI**
+<p align="center"> 🔭 I’m currently working on Frontend web interfaces with Material-UI</p>
+<p align="center"> 🌱 I’m currently learning **Go, React and Docker**</p>
+<p align="center"> 📫 How to reach me **vincent.desloover.1@etsmtl.net**</p>
 
-- 🌱 I’m currently learning **Go, React and Docker**
+<hr/>
 
-- 📫 How to reach me **vincent.desloover.1@etsmtl.net**
-
-<h3 align="left">Languages (ordered by fluency)</h3>
-<p align="left"> 
+<h3 align="center">Languages (ordered by fluency)</h3>
+<p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>    
@@ -18,8 +18,8 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">Web Tech:</h3>
-<p align="left"> 
+<h3 align="center">Web:</h3>
+<p align="center"> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -27,8 +27,8 @@
 <p>
 
 
-<h3 align="left">Familiar Tech and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Familiar Tech and Tools:</h3>
+<p align="center"> 
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
