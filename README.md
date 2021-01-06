@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'm Vincent Desloover</h1>
+<h3 align="center">Hi 👋, I'm Vincent</h1>
 <h4 align="center">A third year engineering student and Full-Stack developer from Montreal (CA)</h3>
 
 <p align="center"> :rocket: I’m currently working on Frontend web interfaces with Material-UI</p>
