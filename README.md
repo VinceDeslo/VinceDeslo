@@ -3,7 +3,7 @@
 
 <p align="center"> 🔭 I’m currently working on Frontend web interfaces with Material-UI</p>
 <p align="center"> 🌱 I'm also teaching myself Go, React and Docker</p>
-<p align="center"> 📫 You can reach me at **vincent.desloover.1@etsmtl.net**</p>
+<p align="center"> 📫 You can reach me at vincent.desloover.1@etsmtl.net</p>
 
 <hr/>
 
