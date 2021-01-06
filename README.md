@@ -2,8 +2,8 @@
 <h4 align="center">An undergrad and Full-Stack developer from Montreal (CA)</h3>
 
 <p align="center"> 🔭 I’m currently working on Frontend web interfaces with Material-UI</p>
-<p align="center"> 🌱 I’m currently learning **Go, React and Docker**</p>
-<p align="center"> 📫 How to reach me **vincent.desloover.1@etsmtl.net**</p>
+<p align="center"> 🌱 I'm also teaching myself Go, React and Docker</p>
+<p align="center"> 📫 You can reach me at **vincent.desloover.1@etsmtl.net**</p>
 
 <hr/>
 
