@@ -2,7 +2,7 @@
 <h4 align="center">A third year engineering student and Full-Stack developer from Montreal (CA)</h3>
 
 <p align="center"> :rocket: I’m currently working on Frontend web stuff with Material-UI (<a href="https://github.com/VinceDeslo/Jtrakt">Jtrakt</a>) on my own time</p>
-<p align="center"> :school: Also studying ML/AI and systems software in school full-time</p>
+<p align="center"> :school: Also studying ML/AI and software in school full-time</p>
 <p align="center"> 🌱 My current interests are in distributed systems and cloud development</p>
 <p align="center"> :scroll: Check out my <a href="https://vincedeslo.github.io/">portfolio</a> for further info!</p>
 <p align="center"> :email: In any case, you can reach me at vincent.desloover.1@etsmtl.net</p>
