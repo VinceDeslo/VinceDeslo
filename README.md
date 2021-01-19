@@ -6,6 +6,7 @@
 <p align="center"> 🌱 My current interests are in distributed systems and cloud development</p>
 <p align="center"> :scroll: Check out my <a href="https://vincedeslo.github.io/">portfolio</a> for further info!</p>
 <p align="center"> :email: In any case, you can reach me at vincent.desloover.1@etsmtl.net</p>
+<p align="center"> <a href="https://www.codewars.com/users/VinceDeslo" target="_blank"> <img src="https://www.codewars.com/users/VinceDeslo/badges/micro" alt="Codewars"/></a></p>
 
 <hr/>
 
