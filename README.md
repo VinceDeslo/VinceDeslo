@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'm Vincent</h1>
+<h3 align="center">Hi, I'm Vincent</h1>
 <h4 align="center">A third year engineering student and Full-Stack developer from Montreal (CA)</h3>
 
 <p align="center"> :rocket: I’m currently building an MFCC recognition neural net from scratch (<a href="https://github.com/VinceDeslo/Voice-MLP">Voice-MLP</a>)</p>
