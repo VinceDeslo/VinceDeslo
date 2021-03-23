@@ -1,7 +1,7 @@
 <h3 align="center">Hi, I'm Vincent</h1>
 <h4 align="center">A third year engineering student and Full-Stack developer from Montreal (CA)</h3>
 
-<p align="center"> :rocket: I’m currently building an MFCC recognition neural net from scratch (<a href="https://github.com/VinceDeslo/Voice-LVQ">Voice-LVQ</a>)</p>
+<p align="center"> :rocket: I’m currently building an MFCC recognition LVQ based neural net from scratch</p>
 <p align="center"> :school: Also studying ML and systems programming in school.</p>
 <p align="center"> 🌱 My main interests are in distributed systems and cloud development</p>
 <p align="center"> :email: In any case, you can reach me at vincent.desloover.1@etsmtl.net</p>
