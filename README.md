@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I'm Vincent</h1>
+<h3 align="center">Hi, I'm Vince</h1>
 <h4 align="center">A fourth year engineering student and Full-Stack developer from Montreal (CA)</h3>
 
 <p align="center"> 🌱 My main interests are in distributed systems and cloud development</p>
