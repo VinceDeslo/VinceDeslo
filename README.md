@@ -1,5 +1,5 @@
-<h3 align="center">Hi, I'm Vince</h1>
-<h4 align="center">A Full-Stack developer from Montreal (CA)</h3>
+<h3 align="center">Hi, I'm Vince</h3>
+<h4 align="center">A Full-Stack developer from Montreal (CA)</h4>
 
 <p align="center"> 🌱 My main interests are in distributed systems and cloud infrastructure</p>
 <p align="center"> 📫 Feel free to reach out:
@@ -9,6 +9,8 @@
 </p> 
 
 <hr/>
+
+<h3 align="center">Technologies I'm interested in:</h3>
 
 <table border="0" align="center">
  <tr>
@@ -23,14 +25,14 @@
       <a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
       </a>
-      <a href="https://www.python.org" title="Python" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-      </a>
       <a href="https://golang.org" title="Go" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
       </a>    
-      <a href="https://www.cprogramming.com/" title="C" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+      <a href="https://www.python.org" title="Python" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+      </a>
+      <a href="https://elixir-lang.org/" title="Elixir" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" alt="c" width="40" height="40"/> 
       </a> 
     </p>
   </td>
@@ -57,15 +59,18 @@
    <td>
      <br/>
      <p align="center"> 
-      <a href="https://www.mongodb.com/" title="MongoDB" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
-      </a> 
-      <a href="https://neo4j.com/" title="Neo4j" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" alt="neo4j" width="40" height="40"/> 
-      </a> 
       <a href="https://redis.io/" title="Redis" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> 
       </a> 
+      <a href="https://www.mongodb.com/" title="MongoDB" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
+      </a> 
+      <a href="https://www.mysql.com/" title="MySQL" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
+      </a>
+      <a href="https://neo4j.com/" title="Neo4j" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" alt="neo4j" width="40" height="40"/> 
+      </a>
      </p>
    </td>
   </tr>
@@ -80,15 +85,18 @@
      <p align="center"> 
       <a href="https://aws.amazon.com/" title="AWS" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/> 
-      </a> 
+      </a>
+      <a href="https://cloud.google.com/" title="GCP" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/>
+      <a href="https://www.terraform.io/" title="Terraform" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/> 
       <a href="https://www.docker.com/" title="Docker" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
       </a>
-<!--       <a href="https://kubernetes.io/" title="Kubernetes" target="_blank"> 
+      <a href="https://kubernetes.io/" title="Kubernetes" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> 
-      </a>  -->
-      <a href="https://firebase.google.com/" title="Firebase" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/> 
+      </a> 
+      </a>
       </a>
      </p>
    </td>
@@ -101,12 +109,12 @@
       <a href="https://material-ui.com/" title="Material-UI" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/> 
       </a>
-      <a href="https://redux.js.org/" title="Redux" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+      <a href="https://vuejs.org/" title="Vue" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/> 
       </a>
-      <a href="https://sass-lang.com/" title="SASS" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-      </a> 
+      <a href="https://nuxtjs.org/" title="Vue" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="vue" width="40" height="40"/> 
+      </a>
     <p>
    </td>
    <td>
@@ -126,4 +134,4 @@
   </tr>
 </table>
   
-<p align="center">For a detailed description of my experience, check out my <a href="https://vincedeslo.github.io/#portfolio">portfolio</a>.<p>
+<p align="center">For a detailed description of my experience, check out my <a href="https://vincedeslo.github.io/">site</a>.<p>
