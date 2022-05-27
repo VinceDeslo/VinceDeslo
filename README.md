@@ -2,6 +2,7 @@
 <h4 align="center">A Full-Stack developer from Montreal (CA)</h4>
 
 <p align="center"> 🌱 My main interests are in distributed systems and cloud infrastructure</p>
+<p align="center"> 💼 Currently working in engineering at <a href="https://snyk.io/">Snyk</a></p>
 <p align="center"> 📫 Feel free to reach out:
 <p align="center"> 
    <a href="mailto:vincent.desloover.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/ alt="Gmail"> </a>
@@ -10,7 +11,7 @@
 
 <hr/>
 
-<h3 align="center">Technologies I'm interested in:</h3>
+<h3 align="center">Tech that I'm looking into:</h3>
 
 <table border="0" align="center">
  <tr>
@@ -134,4 +135,5 @@
   </tr>
 </table>
   
-<p align="center">For a detailed description of my experience, check out my <a href="https://vincedeslo.github.io/">site</a>.<p>
+<p align="center">For a more detailed description of my experience, check out my <a href="https://vincedeslo.github.io/">site</a>.<p>
+<p align="center">The repos authored on this account are side projects and snippets used for learning purposes.<p>
