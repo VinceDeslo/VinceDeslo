@@ -189,10 +189,10 @@
     <p align="center">
       <a href="https://grpc.io/" title="gRPC" target="_blank"> 
         <img src="https://grpc.io/img/logos/grpc-logo.png" alt="gRPC" width="60" height="40"/> 
-      </a> 
-      <a href="https://graphql.org/" title="GraphQL" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/> 
-      </a> 
+      </a>
+      <a href="https://webassembly.org/" title="WASM" target="_blank"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/1200px-WebAssembly_Logo.svg.png" alt="wasm" width="40" height="40"/> 
+      </a>
       <a href="https://redis.io/" title="Redis" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> 
       </a>
