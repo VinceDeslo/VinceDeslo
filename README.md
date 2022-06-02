@@ -136,4 +136,4 @@
 </table>
   
 <p align="center">For a more detailed description of my experience, check out my <a href="https://vincedeslo.github.io/">site</a>.<p>
-<p align="center">The repos authored on this account are side projects and snippets used for learning purposes.<p>
+<p align="center">The repos authored on this account are side projects and snippets used mainly for learning purposes.<p>
