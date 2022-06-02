@@ -11,9 +11,9 @@
 
 <hr/>
 
-<h3 align="center">Tech that I'm looking into:</h3>
+<h3 align="center">Tech that I'm looking to explore further :</h3>
 
-<table border="0" align="center">
+<!-- <table border="0" align="center">
  <tr>
    <td><b style="font-size:30px">Languages</b></td>
    <td><b style="font-size:30px">Backend</b></td>
@@ -133,7 +133,79 @@
     </p>
    </td>
   </tr>
-</table>
+</table> -->
   
+<table border="0" align="center">
+  <table border="0" align="center">
+ <tr>
+   <td><b style="font-size:30px">Languages</b></td>
+   <td><b style="font-size:30px">Infrastructure</b></td>
+   <td><b style="font-size:30px">Miscellaneous</b></td>
+ </tr>
+ <tr>
+  <td>
+    <br/>
+    <p align="center"> 
+      <a href="https://golang.org" title="Go" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+      </a>
+      <a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+      </a>
+      <a href="https://www.rust-lang.org/" title="Rust" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="go" width="40" height="40"/>
+      </a>
+      <a href="https://elixir-lang.org/" title="Elixir" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" alt="c" width="40" height="40"/> 
+      </a> 
+      <a href="https://www.python.org" title="Python" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+      </a>
+    </p>
+  </td>
+  <td>
+     <br/>
+     <p align="center"> 
+      <a href="https://aws.amazon.com/" title="AWS" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/> 
+      </a>
+      <a href="https://cloud.google.com/" title="GCP" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/>
+      <a href="https://www.terraform.io/" title="Terraform" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
+      <a href="https://www.docker.com/" title="Docker" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
+      </a>
+      <a href="https://helm.sh//" title="Helm" target="_blank"> 
+        <img src="https://helm.sh/img/helm.svg" alt="helm" width="40" height="40"/> 
+      </a>
+      <a href="https://kubernetes.io/" title="Kubernetes" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> 
+      </a>
+     </p>
+   </td>
+  <td>
+    <br/>
+    <p align="center">
+      <a href="https://grpc.io/" title="gRPC" target="_blank"> 
+        <img src="https://grpc.io/img/logos/grpc-logo.png" alt="gRPC" width="60" height="40"/> 
+      </a> 
+      <a href="https://graphql.org/" title="GraphQL" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/> 
+      </a> 
+      <a href="https://redis.io/" title="Redis" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> 
+      </a>
+      <a href="https://kafka.apache.org/" title="Kafka" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="redis" width="40" height="40"/> 
+      </a>
+      <a href="https://grafana.com/" title="Grafana" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/> 
+      </a>
+    <p>
+  </td>
+  </tr>
+</table>
+ 
 <p align="center">For a more detailed description of my experience, check out my <a href="https://vincedeslo.github.io/">site</a>.<p>
 <p align="center">The repos authored on this account are side projects and snippets used mainly for learning purposes.<p>
