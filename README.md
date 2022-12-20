@@ -30,9 +30,6 @@
       <a href="https://www.rust-lang.org/" title="Rust" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="go" width="40" height="40"/>
       </a>
-      <a href="https://elixir-lang.org/" title="Elixir" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" alt="c" width="40" height="40"/> 
-      </a> 
     </p>
   </td>
   <td>
@@ -58,9 +55,6 @@
       </a>
       <a href="https://webassembly.org/" title="WASM" target="_blank"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/1200px-WebAssembly_Logo.svg.png" alt="wasm" width="40" height="40"/> 
-      </a>
-      <a href="https://prometheus.io/" title="Prometheus" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/> 
       </a>
       <a href="https://redis.io/" title="Redis" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> 
