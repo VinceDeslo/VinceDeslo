@@ -4,7 +4,6 @@
 <p align="center"> 💼 Currently working in engineering at <a href="https://snyk.io/">Snyk</a></p>
 <p align="center"> 📫 Feel free to reach out:
 <div align="center"> 
-   <a href="mailto:vincent.desloover.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/ alt="Gmail"> </a>
    <a href="https://www.linkedin.com/in/vincent-desloover/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/> </a>
 </div> 
 
