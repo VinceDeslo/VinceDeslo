@@ -2,13 +2,14 @@
 
 <p align="center"> 🌱 My main interests are in distributed systems and cloud native infrastructure</p>
 <p align="center"> 💼 Currently working in engineering at <a href="https://snyk.io/">Snyk</a></p>
-<p align="center"> 📫 Feel free to reach out:
+<p align="center"> 📫 Feel free to reach out:</p>
 <div align="center"> 
-   <a href="https://www.linkedin.com/in/vincent-desloover/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/> </a>
+   <a href="https://www.linkedin.com/in/vincent-desloover/">
+      <img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" alt="LinkedIN" width="30" height="30"/> 
+   </a>
 </div> 
 
 <h3 align="center">Tech that I'm diving into :</h3>
-  
    <div align="center">
       <a href="https://www.rust-lang.org/" title="Rust" target="_blank">
         <img src="https://cdn.svgporn.com/logos/rust.svg" alt="go" width="40" height="40"/>
