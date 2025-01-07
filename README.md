@@ -1,7 +1,7 @@
 <h3 align="center">Hi, I'm Vince</h3>
 
 <p align="center"> 🌱 My main interests are in distributed systems and cloud native infrastructure</p>
-<p align="center"> 💼 Currently working in DevEx at <a href="https://snyk.io/">Snyk</a></p>
+<p align="center"> 💼 Currently working in Product Infrastructure & DevEx at <a href="https://snyk.io/">Snyk</a></p>
 <p align="center"> 📫 Feel free to reach out:</p>
 <div align="center"> 
    <a href="https://www.linkedin.com/in/vincent-desloover/">
@@ -23,9 +23,6 @@
       <a href="https://aws.amazon.com/" title="AWS" target="_blank" style="text-decoration:none"> 
         <img src="https://cdn.svgporn.com/logos/aws.svg" alt="aws" width="40" height="40"/> 
       </a>
-      <a href="https://cloud.google.com/" title="GCP" target="_blank"> 
-        <img src="https://cdn.svgporn.com/logos/google-cloud.svg" alt="gcp" width="40" height="40"/>
-      </a>
       <a href="https://kubernetes.io/" title="Kubernetes" target="_blank"> 
         <img src="https://cdn.svgporn.com/logos/kubernetes.svg" alt="kubernetes" width="40" height="40"/> 
       </a>
@@ -40,9 +37,6 @@
       </a>
       <a href="https://opentelemetry.io/" title="Open Telemetry" target="_blank">
          <img src="https://cdn.svgporn.com/logos/opentelemetry-icon.svg" alt="otel" width="40" height="50"/>
-      </a>
-      <a href="https://webassembly.org/" title="WASM" target="_blank" style="text-decoration:none"> 
-        <img src="https://cdn.svgporn.com/logos/webassembly.svg" alt="wasm" width="40" height="40"/> 
       </a>
    </div>
 <br/>
