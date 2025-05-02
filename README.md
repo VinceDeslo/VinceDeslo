@@ -1,6 +1,6 @@
 <h3 align="center">Hi, I'm Vince</h3>
 
-<p align="center"> 🌱 My main interests are in distributed systems and cloud native infrastructure</p>
+<p align="center"> 🌱 My main interests are in distributed systems, data engineering, and cloud native infrastructure</p>
 <p align="center"> 💼 Currently working in Product Infrastructure & DevEx at <a href="https://snyk.io/">Snyk</a></p>
 <p align="center"> 📫 Feel free to reach out:</p>
 <div align="center"> 
