@@ -7,7 +7,7 @@
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-2D334F?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/vincent-desloover/)
 [![Site](https://img.shields.io/badge/Site-2D334F?logoColor=white)](https://vincedeslo.github.io/)
 
-#### Tech stack:
+#### Tech:
 [![Go](https://img.shields.io/badge/Go-2D334F?logo=go&logoColor=fff)](https://go.dev/)
 [![Rust](https://img.shields.io/badge/Rust-2D334F?logo=rust&logoColor=fff)](https://www.rust-lang.org/)
 [![AWS](https://img.shields.io/badge/AWS-2D334F?logo=amazon-aws&logoColor=fff)](https://aws.amazon.com/)
@@ -15,6 +15,7 @@
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-2D334F?logo=kubernetes&logoColor=fff)](https://kubernetes.io/)
 [![Kafka](https://img.shields.io/badge/Kafka-2D334F?logo=apachekafka&logoColor=fff)](https://kafka.apache.org/)
 [![Postgres](https://img.shields.io/badge/PostgreSQL-2D334F?logo=postgresql&logoColor=fff)](https://www.postgresql.org/)
+[![Snowflake](https://img.shields.io/badge/Snowflake-2D334F?logo=snowflake&logoColor=fff)](https://www.snowflake.com/)
 [![OTel](https://img.shields.io/badge/OTel-2D334F?logo=opentelemetry&logoColor=fff)](https://opentelemetry.io/)
 [![ArgoCD](https://img.shields.io/badge/ArgoCD-2D334F?logo=argo&logoColor=fff)](https://argo-cd.readthedocs.io/en/stable/)
 
