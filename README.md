@@ -14,7 +14,7 @@
     <td>Languages</td>
     <td>
       <img src="https://img.shields.io/badge/Go-2D334F?logo=go&logoColor=fff" alt="Go"/>
-      <img src="https://img.shields.io/badge/Rust-2D334F?logo=rust&logoColor=fff)" alt="Rust"/>
+      <img src="https://img.shields.io/badge/_Rust-2D334F?logo=rust&logoColor=fff)" alt="Rust"/>
     </td>
   </tr>
   <tr>
