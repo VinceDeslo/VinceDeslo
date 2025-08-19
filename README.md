@@ -1,7 +1,7 @@
 <h3 align="left">Hey, I'm Vince</h3>
 
 <p> 🌱 Interested in distributed systems, data engineering, and cloud native infrastructure.</p>
-<p> 💼 Product Infrastructure & Developer Experience at <a href="https://snyk.io/">Snyk</a>.</p>
+<p> 💼 Ex Product Infrastructure & Developer Experience at <a href="https://snyk.io/">Snyk</a>.</p>
 <p> 📫 Feel free to reach out:</p>
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-2D334F?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/vincent-desloover/)
