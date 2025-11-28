@@ -44,7 +44,7 @@
       <img src="https://img.shields.io/badge/Ubuntu-2D334F?logo=ubuntu&logoColor=fff" alt="Ubuntu"/>
       <img src="https://img.shields.io/badge/Nix-2D334F?logo=nixos&logoColor=fff" alt="Nix"/>
       <img src="https://img.shields.io/badge/Neovim-2D334F?logo=neovim&logoColor=fff" alt="Neovim"/>
-      <img src="https://img.shields.io/badge/Gemini-2D334F?logo=googlegemini&logoColor=fff" alt="Gemini"/>
+      <img src="https://img.shields.io/badge/Claude-2D334F?logo=claude&logoColor=fff" alt="Gemini"/>
     </td>
   </tr>
 </table>
