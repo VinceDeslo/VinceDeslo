@@ -19,7 +19,7 @@
     </td>
   </tr>
   <tr>
-    <td>Infrastructure</td>
+    <td>Platform</td>
     <td>
       <img src="https://img.shields.io/badge/AWS-2D334F?logo=amazon-aws&logoColor=fff" alt="AWS"/>
       <img src="https://img.shields.io/badge/GCP-2D334F?logo=googlecloud&logoColor=fff" alt="GCP"/>
@@ -27,6 +27,7 @@
       <img src="https://img.shields.io/badge/Terraform-2D334F?logo=terraform&logoColor=fff" alt="Terraform"/>
       <img src="https://img.shields.io/badge/OTel-2D334F?logo=opentelemetry&logoColor=fff" alt="OTel"/>
       <img src="https://img.shields.io/badge/ArgoCD-2D334F?logo=argo&logoColor=fff" alt="ArgoCD"/>
+      <img src="https://img.shields.io/badge/Actions-2D334F?logo=githubactions&logoColor=fff" alt="GithubActions"/>
     </td>
   </tr>
   <tr>
@@ -35,6 +36,16 @@
       <img src="https://img.shields.io/badge/Kafka-2D334F?logo=apachekafka&logoColor=fff" alt="Kafka"/>
       <img src="https://img.shields.io/badge/PostgreSQL-2D334F?logo=postgresql&logoColor=fff" alt="PostgreSQL"/>
       <img src="https://img.shields.io/badge/Snowflake-2D334F?logo=snowflake&logoColor=fff" alt="Snowflake"/>
+      <img src="https://img.shields.io/badge/DuckDB-2D334F?logo=duckdb&logoColor=fff" alt="DuckDB"/>
+      <img src="https://img.shields.io/badge/Parquet-2D334F?logo=apacheparquet&logoColor=fff" alt="Parquet"/>
+    </td>
+  </tr>
+  <tr>
+    <td>AI</td>
+    <td>
+      <img src="https://img.shields.io/badge/Claude-2D334F?logo=claude&logoColor=fff" alt="Claude"/>
+      <img src="https://img.shields.io/badge/Ollama-2D334F?logo=ollama&logoColor=fff" alt="Ollama"/>
+      <img src="https://img.shields.io/badge/Qwen-2D334F?logo=qwen&logoColor=fff" alt="Qwen"/>
     </td>
   </tr>
   <tr>
@@ -44,7 +55,6 @@
       <img src="https://img.shields.io/badge/Ubuntu-2D334F?logo=ubuntu&logoColor=fff" alt="Ubuntu"/>
       <img src="https://img.shields.io/badge/Nix-2D334F?logo=nixos&logoColor=fff" alt="Nix"/>
       <img src="https://img.shields.io/badge/Neovim-2D334F?logo=neovim&logoColor=fff" alt="Neovim"/>
-      <img src="https://img.shields.io/badge/Claude-2D334F?logo=claude&logoColor=fff" alt="Gemini"/>
     </td>
   </tr>
 </table>
