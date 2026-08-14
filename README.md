@@ -1,7 +1,7 @@
 <h3 align="left">Hey, I'm Vince</h3>
 
 <p> 🌱 Interested in distributed systems, data engineering, and cloud native infrastructure.</p>
-<p> 💼 Tracking and fixing at <a href="https://snyk.io/">Infracost</a>.</p>
+<p> 💼 Building AI agents, data lakes, and cloud integrations at <a href="https://infracost.io/">Infracost</a>.</p>
 <p> 💼 Ex Product Infrastructure & Developer Experience at <a href="https://snyk.io/">Snyk</a>.</p>
 <p> 📫 Feel free to reach out:</p>
 
