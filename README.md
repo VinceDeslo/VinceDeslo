@@ -44,7 +44,7 @@
     <td>AI</td>
     <td>
       <img src="https://img.shields.io/badge/Claude-2D334F?logo=claude&logoColor=fff" alt="Claude"/>
-      <img src="https://img.shields.io/badge/Ollama-2D334F?logo=ollama&logoColor=fff" alt="Ollama"/>
+      <img src="https://img.shields.io/badge/vLLM-2D334F?logo=vllm&logoColor=fff" alt="vLLM"/>
       <img src="https://img.shields.io/badge/Qwen-2D334F?logo=qwen&logoColor=fff" alt="Qwen"/>
     </td>
   </tr>
