@@ -6,7 +6,7 @@
 <p> 📫 Feel free to reach out:</p>
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-2D334F?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/vincent-desloover/)
-[![Site](https://img.shields.io/badge/Site-2D334F?logoColor=white)](https://vincedeslo.github.io/)
+[![Site](https://img.shields.io/badge/Site-2D334F?logoColor=white)](https://vincedeslo.dev/)
 
 #### Preferred Stack:
 
